@@ -1,0 +1,17 @@
+﻿# Ignore raw large files
+data/raw/*.csv
+
+# Ignore temp / system
+*.log
+*.tmp
+desktop.ini
+
+# Python
+venv/
+__pycache__/
+
+# Power BI temp
+*.pbix.tmp
+
+# VS Code
+.vscode/
