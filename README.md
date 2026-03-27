@@ -1,6 +1,7 @@
 # 🛒 E-Commerce Behavioral Funnel & Revenue Optimization Analysis
 
-![dashboard_overview.png.png](attachment:dashboard_overview.png.png)
+<img width="702" height="546" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ada782b4-b676-47eb-b382-bb705fc60241" />
+
 ## 📌 Project Overview
 
 This project analyzes user behavior across a large-scale e-commerce platform to identify **conversion bottlenecks, revenue drivers, and growth opportunities**.
