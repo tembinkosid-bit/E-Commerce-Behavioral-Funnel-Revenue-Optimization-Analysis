@@ -1,6 +1,7 @@
 # 🛒 E-Commerce Behavioral Funnel & Revenue Optimization Analysis
 
-<img width="702" height="546" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ada782b4-b676-47eb-b382-bb705fc60241" />
+<img width="978" height="545" alt="dashboard_overview" src="https://github.com/user-attachments/assets/bc60fa48-e9dc-440a-bdab-6489025f979b" />
+
 
 ## 📌 Project Overview
 
